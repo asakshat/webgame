@@ -45,7 +45,7 @@ console.log(boundaries);
 const image = new Image();
 image.src = './assets/pokemon_map_village.png';
 const playerImage = new Image();
-playerImage.src = './assets/Walk.png';
+playerImage.src = './assets/walk2.png';
 
 class Sprite {
 	constructor({ position, velocity, image }) {
